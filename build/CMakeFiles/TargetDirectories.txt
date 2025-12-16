@@ -1,0 +1,3 @@
+/home/darsh/devel/YellowBoy/build/CMakeFiles/Game.dir
+/home/darsh/devel/YellowBoy/build/CMakeFiles/edit_cache.dir
+/home/darsh/devel/YellowBoy/build/CMakeFiles/rebuild_cache.dir
